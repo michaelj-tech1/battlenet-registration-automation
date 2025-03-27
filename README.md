@@ -18,16 +18,14 @@
   Built-in support for proxies to help manage IP restrictions and enhance anonymity.
 
 ## Prerequisites
-
-- Python 3.7 or later
-- Stable internet connection for API, SMS, proxy, and email verification
-- Email support (e.g., an email account with IMAP enabled for verification retrieval)
-- SMS support (active SMS API credentials for phone verification)
-
+- **Python 3.7** or later  
+- **Internet Connection** for API, SMS, proxy, and email verification  
+- **Email Support** (e.g., an email account with IMAP enabled for verification retrieval)  
+- **SMS Support** (active SMS API credentials for phone verification)
 
 ## Installation
 
-1. **Clone the Repository:**
+1. **Clone the Repository:**  
    ```bash
    git clone https://github.com/michaelj-tech1/battlenet-registration-automation.git
    cd battlenet-registration-automation
