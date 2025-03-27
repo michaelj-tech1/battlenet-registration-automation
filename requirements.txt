@@ -1,0 +1,7 @@
+keyring
+psutil
+PySide6
+requests
+discord_interactions
+beautifulsoup4
+faker
