@@ -1,0 +1,11 @@
+<RCC>
+  <qresource >
+    <file>Icons/check-circle.png</file>
+    <file>Icons/close.png</file>
+    <file>Icons/home.png</file>
+    <file>Icons/maximize.png</file>
+    <file>Icons/menu.png</file>
+    <file>Icons/minimize.png</file>
+    <file>Icons/pencil.png</file>
+     </qresource>
+</RCC>
