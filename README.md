@@ -17,6 +17,13 @@
 - **Proxy Support:**  
   Built-in support for proxies to help manage IP restrictions and enhance anonymity.
 
+## Prerequisites
+
+- Python 3.7 or later
+- Stable internet connection for API, SMS, proxy, and email verification
+- Email support (e.g., an email account with IMAP enabled for verification retrieval)
+- SMS support (active SMS API credentials for phone verification)
+
 
 ## Installation
 
